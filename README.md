@@ -1,6 +1,8 @@
 # test
 
-> An electron-vue project
+> puppeteer淘宝抢购脚本，利用electron-vue包装成客户端，UI采用mintUI
+目前支持拉去购物车，和特定商品链接抢购
+
 
 #### Build Setup
 
