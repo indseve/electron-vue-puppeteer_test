@@ -1,0 +1,4 @@
+[0403/171544.360:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name metrics_client_id, discarding value 43a153477e7e44b895a40ce293acbb22
+[0403/171605.456:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: 操作成功完成。 (0x0)
+[0403/171626.969:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name metrics_client_id, discarding value 43a153477e7e44b895a40ce293acbb22
+[0403/171648.029:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: 操作成功完成。 (0x0)
